@@ -1,0 +1,20 @@
+{
+  "name": "simpleserver1",
+  "version": "1.0.0",
+  "description": "Simple server using node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshatmalik/simpleserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshatmalik/simpleserver/issues"
+  },
+  "homepage": "https://github.com/akshatmalik/simpleserver#readme"
+}
